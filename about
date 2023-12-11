@@ -10,6 +10,6 @@
     <p>Welcome to my website! Below you can click on the link to see how many undergraduate courses each department had for each semester from 2015 to 2023.</p>
     
     <!-- Hyperlink to the index.html page -->
-    <p>Visit our <a href="index.html">index page</a>.</p>
+    <p>Visit our <a href="./">index page</a>.</p>
 </body>
 </html>
